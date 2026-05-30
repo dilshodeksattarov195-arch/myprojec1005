@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdender",
+        "uuid": 3036105,
+        "checksum": "vrv5kg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
